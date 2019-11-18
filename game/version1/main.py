@@ -1,4 +1,4 @@
-# need better design
+# need better class design
 import pyglet
 import resources
 import random
