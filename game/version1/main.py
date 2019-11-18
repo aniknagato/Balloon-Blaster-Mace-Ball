@@ -1,3 +1,4 @@
+# need better design
 import pyglet
 import resources
 import random
